@@ -71,7 +71,6 @@ Replace myenv with the environment name or or directory path
 
 ![vlcsnap-2022-07-14-20h57m01s865](https://user-images.githubusercontent.com/53464755/179019463-6fb0cb1b-6d6d-477c-917a-4e9de0060033.png)
 
-    
-    ## Help
-    
-    If you are facing any difficulty, feel free to create a new issue or reach out on [Linkedin](https://www.linkedin.com/in/karthik-v-926656211/)
+## Help
+
+If you are facing any difficulty, feel free to create a new issue or reach out on [Linkedin](https://www.linkedin.com/in/karthik-v-926656211/)
