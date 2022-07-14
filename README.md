@@ -21,7 +21,7 @@ To Access Live CCTV Camera Using Python
            
      This creates the myenv environment in /envs/. No packages will be installed in this environment.
 
-     .
+     
        
 3. Activating an environment
   
@@ -57,10 +57,11 @@ Replace myenv with the environment name or or directory path
     
     !Note:
           
-          * Replace username with the your CCTV username.
-          * Replace password with the your CCTV password.
-          * Replace IP with the your CCTV IP.
+         * Replace username with the your CCTV username.
+         * Replace password with the your CCTV password.
+         * Replace IP with the your CCTV IP.
               
+                                      
               cap = cv2.VideoCapture('rtsp://username : password @ ip /live')
               
                   eg:
